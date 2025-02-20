@@ -1,0 +1,2 @@
+ALERT: High bias detected in Gender (5433 occurrences)
+ALERT: High bias detected in Race (1058 occurrences)
